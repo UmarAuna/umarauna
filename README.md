@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-![](https://github.com/okanaydin/readme/blob/main/banner.png)
+![](https://github.com/umarauna/readme/blob/main/banners.png)
 
 <!-- Tell me about yourself! -->
 <b>Umar Saidu Auna</b> is a Software Engineer - Android at <b> [gidimo](https://gidimo.com/) </b> based in :ng: <b>Lagos/Nigeria</b>. He studied Computer Science at Bayero University Kano (BUK). Besides programming, he contributes to the software industry as much as he can to produce content and organize events as an organizer of <b> [Google Developer Group Minna](https://gdg.community.dev/gdg-minna/)</b>, <b> [Kotlin Minna User Group](https://web.facebook.com/groups/969877396554431/about)</b>, <b> [Kotlin Kano User Group](https://web.facebook.com/groups/193660894904095/about)</b>.
