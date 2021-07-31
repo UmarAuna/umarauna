@@ -19,11 +19,24 @@
 <!-- GitHub Stats -->
 ## 👨‍💻 My GitHub Stats
 
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarauna)
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=umarAuna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nsikak's Github Stats">
+
+</br>
+
+<!-- GitHub Stats -->
+## 👨‍💻 Top Langauges
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarAuna&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
 
 <!-- Social Media accounts -->
-## 👀 How to reach me
+## 👀 Connect with Me
 
-[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/umarauna)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/umarauna)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/umarsaidu/)
+<p align="center">
+&nbsp; <a href="https://twitter.com/umarauna" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/umarauna/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/umarsaidu/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:umarmanofpeace@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
