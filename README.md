@@ -4,7 +4,7 @@
 
 <!-- Tell me about yourself! -->
 
-## 👨🏻‍💻 About Me 🇳🇬
+## 👨🏻‍💻 About Me
 
 - 🔭 &nbsp; I’m an Android Engineer
 - 🤔 &nbsp; Building solutions for Android using Cutting edge technologies.
