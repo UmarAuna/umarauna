@@ -31,7 +31,7 @@
 <ul>
 <li>🔭  I’m currently improving my Android skill.</li>
 <li>🧐  Learning about Android Jetpack Compose</li>
-<li>📝  I regulary write articles on <a href="https://www.notion.so/Welcome-to-Umar-Blog-63ef4d10625b46b5b6186235a8167c4f">my blog</a>.</li>
+<li>📝  I regulary write articles on <a href="https://medium.com/@umarauna">my blog</a>.</li>
 <li>💬  Ask me about <b>Android, Kotlin.</b></li>
 <li>😄  Pronouns: he/him </li>
 <li>🎉  Fun Fact: Big fan of Call of Duty</li>
