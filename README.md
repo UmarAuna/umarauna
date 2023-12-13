@@ -6,8 +6,8 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m an Mobile Engineer
-- 🤔 &nbsp; Building solutions for Android using Cutting edge technologies.
+- 🔭 &nbsp; I’m a Mobile Engineer
+- 🤔 &nbsp; Building solutions for Android/iOS using Cutting edge technologies.
 - 💼 &nbsp; Mobile Engineer .
 - 🌱 &nbsp; Enthusiast in Design
 
@@ -16,24 +16,23 @@
 - 💻 &nbsp; Kotlin | Java | Flutter 
 - 🌐 &nbsp; Android | Flutter 
 - 🛢 &nbsp; Spring boot | Firebase 
-- 🔧 &nbsp; Android Studio | IntelliJ IDE | Git
+- 🔧 &nbsp; Android Studio | IntelliJ IDE | Git | VS Code
 - 🖥 &nbsp; Figma | Photoshop | Filmora
 
 ## 👨‍👩‍👧‍👦 Tech Community Managing
-- 💻 &nbsp; GDG Minna - Google Developers Group Minna
-- 💻 &nbsp; KMUG - Kotlin Minna User Group
+- 💻 &nbsp; [GDG Minna](https://gdg.community.dev/gdg-minna/) - Google Developer Groups Minna
+- 💻 &nbsp; [KMUG](https://twitter.com/kotlinminna) - Kotlin Minna User Group
 
 <!-- <b>Umar Saidu Auna</b> is a Software Engineer. He studied Computer Science at Bayero University Kano (BUK). Besides programming, he contributes to the software industry as much as he can to produce content and organize events as an organizer of <b> [Google Developer Group Minna](https://gdg.community.dev/gdg-minna/)</b>, <b> [Kotlin Minna User Group](https://web.facebook.com/groups/969877396554431/about)</b>, <b> [Kotlin Kano User Group](https://web.facebook.com/groups/193660894904095/about)</b>. -->
 
-
 ## 🚧 A Few Quick Facts
 <ul>
-<li>🔭  I’m currently improving my Android skill.</li>
+<li>🔭  I’m currently improving my Android/Flutter skills.</li>
 <li>🧐  Learning about Android Jetpack Compose and Flutter</li>
 <li>📝  I regulary write articles on <a href="https://medium.com/@umarauna">my blog</a>.</li>
 <li>💬  Ask me about <b>Android, Kotlin, and Flutter.</b></li>
 <li>😄  Pronouns: he/him </li>
-<li>🎉  Fun Fact: Big fan of Call of Duty</li>
+<li>🎉  Fun Fact: Big fan of Call of Duty Mobile</li>
 </ul>
 
 <p align="left"> 
