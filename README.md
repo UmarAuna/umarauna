@@ -63,8 +63,8 @@ Generate yours [here](https://kapasia-dev-ed.my.site.com/Badges4Me/s/)
 </p>
 <br>
 <p align="center">
-<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarAuna&theme=github_dark"/>
 <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmarAuna&theme=github_dark"/>
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmarAuna&theme=github_dark"/>
 </p>
 <br>
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmarAuna&theme=github_dark"/>
@@ -72,30 +72,4 @@ Generate yours [here](https://kapasia-dev-ed.my.site.com/Badges4Me/s/)
 ## 📈 Contribution Graph:
 [![Sangam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UmarAuna&theme=tokyo-night)](https://github.com/UmarAuna/github-readme-activity-graph)
 
-
 ---
-
-
-## 👨‍💻 My GitHub Stats
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=umarAuna&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nsikak's Github Stats">
-
-</br>
-
-<!-- GitHub Stats -->
-## 👨‍💻 Top Langauges
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umarAuna&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
-
-## 🤖 Languages and Tools:
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2044/PNG/512/android_logo_icon_124318.png" alt="android" width="40" height="40"/> </a>
-  <a href="https://https://www.java.com/en/" target="_blank"> <img src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png" alt="Java" width="40" height="40"/> </a>
-  <!-- <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> --> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <!-- <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> --> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>--> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> --> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://endivesoftware.com/blog/wp-content/uploads/2020/01/Spring-Boot-Application-Development.png" alt="spring boot" width="90" height="40"/> </a>
-  <a href="https://www.heroku.com" target="_blank"> <img src="https://www.herokucdn.com/favicon.ico" alt="heroku" width="40" height="40"/> </a>
-   <a href="https://cloudinary.com/" target="_blank"> <img src="https://cloudinary-res.cloudinary.com/image/upload/website/cloudinary_web_favicon.png" alt="cloudinary" width="40" height="40"/> </a>
-<!--<a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>--> </p>
